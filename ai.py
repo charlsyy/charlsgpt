@@ -4,7 +4,7 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-openai.api_key = "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"
+openai.api_key = ""
 
 st.set_page_config(page_title="Charlsgpt - Your Personal Chatbot", layout="wide")
 
